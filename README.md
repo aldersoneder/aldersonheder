@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou Eder Alderson
+- 👀 Estou interessado em segurança da informação
+- 🌱 Atualmente estou aprendendo Ruby
+- 💞️ Estou querendo colaborar com a segurança da informação
+- 📫 Podem me achar no instagram aldersoneder
